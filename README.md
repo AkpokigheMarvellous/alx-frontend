@@ -1,4 +1,4 @@
-# holbertonschool: Web: Front End
+# alx: Web: Front End
 
 a repository that contains programs written for the Web Stack, front-end track at Holberton School.  these projects taught me Advanced Html, Advanced CSS, Sass, how to work with Developper tools, Flexboxes... Simultaneously. The specific list of projects contained follows:
 
@@ -27,6 +27,6 @@ Holberton School. For more information, visit
 
 <p align="center">
   <img src="http://www.alx.com/alx-logo.png"
-       alt="Holberton School logo"
+       alt="alx School logo"
   >
 </p>
